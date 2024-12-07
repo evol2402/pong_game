@@ -27,3 +27,8 @@ Paddle and ball movement: Smooth and intuitive movement based on user inputs.
 
 
 This project showcases proficiency in Python programming, game mechanics, and user interface design using Pygame, making it a solid example of interactive game development.
+
+Screenshots
+
+![image](https://github.com/user-attachments/assets/0b798c64-f0e5-4c3c-9bf3-897b39d23f26)
+
